@@ -35,8 +35,6 @@ investment strategies. Models such as these can be a valuable tool for making in
 
 ## Installation
 
-### TODO: Change Data directory accordingly
-
 1. Clone the repository into a folder and open a terminal of your choice.
 
 2. Create a virtual environment
