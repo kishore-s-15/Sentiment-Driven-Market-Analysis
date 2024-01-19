@@ -3,7 +3,7 @@
 
 ## Abstract
 
-The efficient-market hypothesis in financial eco nomics states that asset prices reflect all available information.
+The efficient-market hypothesis in financial economics states that asset prices reflect all available information.
 With the advent of large language models, it is possible to leverage information sources such as news headlines and
 social media feeds to get new metrics like prevailing public sentiment scores. Along with historic market data, this
 project aims to use these new metrics to build prescriptive models which will be able to outperform existing stock
